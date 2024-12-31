@@ -2,7 +2,7 @@
   
 
 ---
-### A Frontend Enthusiast Shaping the Web
+ ### A Frontend Enthusiast Shaping the Web
 
 Hello there! 👋 I’m Devid , a frontend developer fueled by creativity and a relentless drive to craft exceptional web experiences. With a strong passion for bridging the gap between design and functionality, I specialize in transforming ideas into dynamic, user-friendly interfaces.  
 
@@ -13,13 +13,13 @@ Beyond the screen, I dedicate time to exploring emerging trends, contributing to
 
 -----------------------------
 <br>
-### 🚀 More about me
+ <h3>🚀 More about me </h3> 
 
 🔭 I’m currently working on Improving My Frontend Skills<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently learning Next Js   and Typescript<br>💬 Ask me about  HTML , CSS , JavaScript  , TypeScript , REACT ,  NEXT JS<br>📫   How to reach me :  devidbisen84@gmail.com <br>😄 Pronouns : He/Him
 
 -----
   <br>  
-### Tools and Technologies:  
+<h3>Tools and Technologies:</h3>  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -40,7 +40,7 @@ Beyond the screen, I dedicate time to exploring emerging trends, contributing to
 <br>
 
 
-### Connect with me:  
+<h3>Connect with me:</h3>  
 <a href="https://linkedin.com/in/linkedin.com/in/devid-bisen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
